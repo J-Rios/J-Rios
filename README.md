@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**J-Rios/J-Rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile
 
-Here are some ideas to get you started:
+Hi, I make a lot of free and open-source projects!  
+Here you can find Hardware, Firmware and Software (Microcontrollers projects, Hardware designs, Scripts, Bots development, Tools...).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check and try out them, and if you like it:
+
+- Considere [become one of my sponsors](https://github.com/sponsors/J-Rios) and help me stay motivated to maintain tcurrent projects and develop new ones.
+
+- If you prefer, you can also make a donation through [Paypal](https://www.paypal.me/josrios).
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png?v8" width="25"> <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30">
