@@ -1,5 +1,5 @@
 
-### Welcome to my profile
+### Welcome to my Profile <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25">
 
 Hi, I make a lot of free and open-source projects!  
 Here you can find Hardware, Firmware and Software (Microcontrollers projects, Hardware designs, Scripts, Bots development, Tools...).
@@ -10,4 +10,4 @@ Feel free to check and try out them, and if you like it:
 
 - If you prefer, you can also make a donation through [Paypal](https://www.paypal.me/josrios).
 
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png?v8" width="25"> <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30">
+ <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30">
