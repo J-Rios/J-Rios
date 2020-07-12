@@ -6,7 +6,7 @@ Here you can find Hardware, Firmware and Software (Microcontrollers projects, Ha
 
 Feel free to check and try out them, and if you like it:
 
-- Considere [become one of my sponsors](https://github.com/sponsors/J-Rios) and help me stay motivated to maintain tcurrent projects and develop new ones.
+- Considere [become one of my sponsors](https://github.com/sponsors/J-Rios) and help me stay motivated to maintain current projects and develop new ones.
 
 - If you prefer, you can also make a donation through [Paypal](https://www.paypal.me/josrios).
 
