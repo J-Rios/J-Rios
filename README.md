@@ -1,8 +1,9 @@
 
-### Welcome to my Profile <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25">
+### +<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25"> Welcome to my Profile
 
 Hi, I make a lot of free and open-source projects!  
-Here you can find Hardware, Firmware and Software (Microcontrollers projects, Hardware designs, Scripts, Bots development, Tools...).
+Here you can find Hardware, Firmware and Software projects.  
+Microcontrollers firmware development, Hardware designs, Scripts, Bots development, Tools, Linux, C, C++, Python...).
 
 Feel free to check and try out them, and if you like it:
 
