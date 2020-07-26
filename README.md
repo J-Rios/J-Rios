@@ -11,4 +11,4 @@ Feel free to check and try out them, and if you like it:
 
 - If you prefer, you can also make a donation through [Paypal](https://www.paypal.me/josrios).
 
- <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" align="right" width="30">
