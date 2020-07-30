@@ -1,8 +1,7 @@
 
 ### +<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25"> Welcome to my Profile
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue)
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=J-Rios&layout=compact&theme=vue)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue) ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=J-Rios&layout=compact&theme=vue)
 
 I make a lot of free and open-source projects! Here you can find Hardware, Firmware and Software projects.  
 Microcontrollers firmware development, Hardware designs, Scripts, Bots development, Tools, Linux, C, C++, Python...).
