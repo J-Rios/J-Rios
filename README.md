@@ -6,4 +6,8 @@ Microcontrollers firmware development, Hardware designs, Scripts, Bots developme
 
 Feel free to check and try out them, and if you like it, considere making a donation through [Paypal](https://www.paypal.me/josrios) and help me stay motivated to maintain current projects and develop new ones.
 
-[<img src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" align="right">](https://www.paypal.me/josrios)
+<p align="center">
+  <a href="https://www.paypal.me/josrios">
+    <img src="https://github.com/J-Rios/J-Rios/raw/master/res/paypal_donate_high.png" width="120">
+  </a>
+</p>
