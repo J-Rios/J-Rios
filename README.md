@@ -1,5 +1,11 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Rios&layout=compact&theme=vue" width="330"/> 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0018FF&center=true&width=435&lines=Telecom+Engineer;Electronics+Devices;Embedded+Software+%26+Firmware;C%2C+C%2B%2B%2C+Python%2C+Bash" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Rios&layout=compact&theme=vue" width="330"/>
+</p>
 
 Welcome to my profile, I make a lot of free and open-source projects! Here you can find Hardware, Firmware and Software projects.  
 Microcontrollers firmware development, Hardware designs, Scripts, Bots development, Tools, Linux, C, C++, Python...).
