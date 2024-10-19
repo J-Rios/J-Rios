@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Rios&layout=compact&theme=vue" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue" width="395"/>
 </p>
 
 Welcome to my profile, I make a lot of free and open-source projects! Here you can find Hardware, Firmware and Software projects.  
