@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Rios&show_icons=true&theme=vue" width="395"/>
-</p>
+Welcome to my profile! I create free and open-source projects, including hardware designs, firmware, and software. You'll find microcontroller firmware, scripts, bots, tools, and more, using C, C++, Python, and Linux.
 
-Welcome to my profile, I make a lot of free and open-source projects! Here you can find Hardware, Firmware and Software projects.  
-Microcontrollers firmware development, Hardware designs, Scripts, Bots development, Tools, Linux, C, C++, Python...).
-
-Feel free to check and try out them, and if you like it, considere making a donation through [Paypal](https://www.paypal.me/josrios) and help me stay motivated to maintain current projects and develop new ones.
+Feel free to explore and try them out! If you find them useful, consider supporting my work with a donation via [Paypal](https://www.paypal.me/josrios) and help me stay motivated to maintain current projects and develop new ones.
 
 <p align="center">
   <a href="https://www.paypal.me/josrios">
